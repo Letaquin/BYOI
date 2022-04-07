@@ -1,0 +1,821 @@
+{
+	"folder_history":
+	[
+	],
+	"last_version": 4126,
+	"last_window_id": 1,
+	"log_indexing": false,
+	"next_update_check": 1649358010,
+	"settings":
+	{
+		"new_window_full_screen": false,
+		"new_window_height": 0.0,
+		"new_window_maximized": true,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/valter/arco/git-v1.sh",
+				"/home/valter/DATA/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/archiso.readme",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/ArcoLinuxB-Out/arcolinuxb-xfce-v22.05.01-x86_64.iso.md5",
+				"/usr/share/xsessions/xfce.desktop",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/config",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/index",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+				"/home/valter/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/Documents/test iso/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/LICENSE",
+				"/home/valter/Documents/test iso/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso.readme",
+				"/home/valter/DATA/arco-xfce/archiso/test/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages meaning",
+				"/home/valter/arco/addons.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages (copie 1).txt",
+				"/home/valter/DATA/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/DATA/my_arch_packages.txt",
+				"/home/valter/.config/termite/config",
+				"/home/valter/DATA/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/setup-our-git-credentials.sh",
+				"/home/valter/.config/mimeapps.list",
+				"/run/media/valter/Jigen/Back UP VA/autre/arco",
+				"/home/valter/arco/alias arco.bash_aliases",
+				"/home/valter/arco/README.md",
+				"/home/valter/.bashrc",
+				"/run/media/valter/Jigen/Back UP VA/github/arcolinux-nemesis/100-install-core-software.sh",
+				"/home/valter/Téléchargements/candy-icons/README.md",
+				"/usr/share/bash-completion/bash_completion"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"feh",
+					"xfburn",
+					"volume",
+					"vomlume",
+					"picom",
+					"sddm-config-editor-git",
+					"sddm",
+					"calamares",
+					"yakuake",
+					"wttr",
+					"trizen",
+					"screenk",
+					"scrennkey",
+					"python",
+					"pyakm",
+					"pulseaudio-equalizer",
+					"pulseaudio-equalizer-ladspa",
+					"peek",
+					"pamac",
+					"gitahead",
+					"gitahead-bin",
+					"glx",
+					"font-manager",
+					"b43",
+					"breeze",
+					"yt-dlp",
+					"xdo",
+					"vnstat",
+					"ufw",
+					"ostree",
+					"tree",
+					"rofisimple-scan",
+					"rofi",
+					"redshi",
+					"android",
+					"redshift",
+					"powertop",
+					"qt5ct",
+					"qt4",
+					"python",
+					"python2-dbus",
+					"playerctl",
+					"plank",
+					"nomacs",
+					"jsoncpp",
+					"intltool",
+					"grsync",
+					"hddtemp",
+					"gtop",
+					"gpick",
+					"gnome",
+					"git",
+					"gnome",
+					"glances",
+					"filezilla",
+					"evince",
+					"dex",
+					"cronie",
+					"catfish",
+					"arandr",
+					"openbox",
+					"adapta",
+					"dapta",
+					"dapta-gtk",
+					"dapta-gtk-theme",
+					"papirus",
+					"gnome",
+					"arc-icon",
+					"icon",
+					"ttf-bitstream-vera",
+					"xcursor-simpleandsoft",
+					"jq",
+					"simplescreenrecorder",
+					"qbit",
+					"pragha",
+					"numlockx",
+					"nitrogen",
+					"lshw",
+					"guvcview",
+					"gsimplecal",
+					"gmrun",
+					"galculator",
+					"flashplugin",
+					"os pr",
+					"virtua",
+					"open-vm-tools",
+					"vulkan",
+					"primus",
+					"opencl",
+					"nvidia",
+					"optimus",
+					"bumblebee",
+					"xf86",
+					"xf86-input-synaptics",
+					"xorg-driver",
+					"xterm",
+					"logrotate",
+					"aic94xx-firmware",
+					"xfsprogs",
+					"tmux",
+					"tcpdump",
+					"systemd-resolvconf",
+					"sg3_utils",
+					"lynx",
+					"livecd-sounds",
+					"kitty-terminfo",
+					"grml-zsh-config",
+					"f2fs-tools",
+					"f2fs-tools\n",
+					"espeakup",
+					"dhcpcd",
+					"ddrescue",
+					"darkhttpd",
+					"crda",
+					"cloud-init",
+					"fwcutter",
+					"cutter",
+					"fwcutter",
+					"b43-fwcutter",
+					"a52dec",
+					"dev",
+					"dev "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			}
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/valter/.xsession",
+					"settings":
+					{
+						"buffer_size": 63,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+					"settings":
+					{
+						"buffer_size": 17885,
+						"encoding": "UTF-8",
+						"line_ending": "Unix"
+					},
+					"undo_stack":
+					[
+						[
+							9,
+							1,
+							"left_delete",
+							null,
+							"AQAAACoIAAAAAAAAKggAAAAAAAABAAAAIg",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAArCAAAAAAAACsIAAAAAAAAAAAAAAAA8L8"
+						],
+						[
+							10,
+							1,
+							"insert",
+							{
+								"characters": "#"
+							},
+							"AQAAACoIAAAAAAAAKwgAAAAAAAAAAAAA",
+							"BQAAAAAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA8L8AAAAAAQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADwvwAAAAABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAPC/AAAAAAEAAAAqCAAAAAAAACoIAAAAAAAAAAAAAAAA8L8"
+						]
+					]
+				},
+				{
+					"file": "/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages-personal-repo.x86_64",
+					"settings":
+					{
+						"buffer_size": 62,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/valter/arco/arco-xfce-BYOI-test/personal/.gitkeep",
+					"settings":
+					{
+						"buffer_size": 0,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"build_system_choices":
+			[
+			],
+			"build_varint": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0,
+				"history":
+				[
+				]
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/valter/arco/git-v1.sh",
+				"/home/valter/DATA/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/archiso.readme",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/ArcoLinuxB-Out/arcolinuxb-xfce-v22.05.01-x86_64.iso.md5",
+				"/usr/share/xsessions/xfce.desktop",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/config",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/.git/index",
+				"/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+				"/home/valter/arco-xfce/personal/.gitkeep",
+				"/home/valter/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/Documents/test iso/installation-scripts/personal-repo",
+				"/home/valter/Documents/test iso/archiso/test/packages to add",
+				"/home/valter/Documents/test iso/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/LICENSE",
+				"/home/valter/Documents/test iso/archiso/test/packages meaning",
+				"/home/valter/DATA/arco-xfce/archiso.readme",
+				"/home/valter/DATA/arco-xfce/archiso/test/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages meaning",
+				"/home/valter/arco/addons.sh",
+				"/home/valter/DATA/arco-xfce/archiso/test/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages-personal-repo.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/packages.x86_64",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages.txt",
+				"/home/valter/DATA/arco-xfce/archiso/my_arch_packages (copie 1).txt",
+				"/home/valter/DATA/arco-xfce/installation-scripts/personal-repo",
+				"/home/valter/DATA/my_arch_packages.txt",
+				"/home/valter/.config/termite/config",
+				"/home/valter/DATA/arco-xfce/installation-scripts/30-build-the-iso-the-first-time.sh",
+				"/home/valter/DATA/arco-xfce/setup-our-git-credentials.sh",
+				"/home/valter/.config/mimeapps.list",
+				"/run/media/valter/Jigen/Back UP VA/autre/arco",
+				"/home/valter/arco/alias arco.bash_aliases",
+				"/home/valter/arco/README.md",
+				"/home/valter/.bashrc",
+				"/run/media/valter/Jigen/Back UP VA/github/arcolinux-nemesis/100-install-core-software.sh",
+				"/home/valter/Téléchargements/candy-icons/README.md",
+				"/usr/share/bash-completion/bash_completion"
+			],
+			"find":
+			{
+				"height": 26.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					"feh",
+					"xfburn",
+					"volume",
+					"vomlume",
+					"picom",
+					"sddm-config-editor-git",
+					"sddm",
+					"calamares",
+					"yakuake",
+					"wttr",
+					"trizen",
+					"screenk",
+					"scrennkey",
+					"python",
+					"pyakm",
+					"pulseaudio-equalizer",
+					"pulseaudio-equalizer-ladspa",
+					"peek",
+					"pamac",
+					"gitahead",
+					"gitahead-bin",
+					"glx",
+					"font-manager",
+					"b43",
+					"breeze",
+					"yt-dlp",
+					"xdo",
+					"vnstat",
+					"ufw",
+					"ostree",
+					"tree",
+					"rofisimple-scan",
+					"rofi",
+					"redshi",
+					"android",
+					"redshift",
+					"powertop",
+					"qt5ct",
+					"qt4",
+					"python",
+					"python2-dbus",
+					"playerctl",
+					"plank",
+					"nomacs",
+					"jsoncpp",
+					"intltool",
+					"grsync",
+					"hddtemp",
+					"gtop",
+					"gpick",
+					"gnome",
+					"git",
+					"gnome",
+					"glances",
+					"filezilla",
+					"evince",
+					"dex",
+					"cronie",
+					"catfish",
+					"arandr",
+					"openbox",
+					"adapta",
+					"dapta",
+					"dapta-gtk",
+					"dapta-gtk-theme",
+					"papirus",
+					"gnome",
+					"arc-icon",
+					"icon",
+					"ttf-bitstream-vera",
+					"xcursor-simpleandsoft",
+					"jq",
+					"simplescreenrecorder",
+					"qbit",
+					"pragha",
+					"numlockx",
+					"nitrogen",
+					"lshw",
+					"guvcview",
+					"gsimplecal",
+					"gmrun",
+					"galculator",
+					"flashplugin",
+					"os pr",
+					"virtua",
+					"open-vm-tools",
+					"vulkan",
+					"primus",
+					"opencl",
+					"nvidia",
+					"optimus",
+					"bumblebee",
+					"xf86",
+					"xf86-input-synaptics",
+					"xorg-driver",
+					"xterm",
+					"logrotate",
+					"aic94xx-firmware",
+					"xfsprogs",
+					"tmux",
+					"tcpdump",
+					"systemd-resolvconf",
+					"sg3_utils",
+					"lynx",
+					"livecd-sounds",
+					"kitty-terminfo",
+					"grml-zsh-config",
+					"f2fs-tools",
+					"f2fs-tools\n",
+					"espeakup",
+					"dhcpcd",
+					"ddrescue",
+					"darkhttpd",
+					"crda",
+					"cloud-init",
+					"fwcutter",
+					"cutter",
+					"fwcutter",
+					"b43-fwcutter",
+					"a52dec",
+					"dev",
+					"dev "
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"scrollbar_highlights": true,
+				"show_context": true,
+				"use_buffer2": true,
+				"use_gitignore": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/valter/.xsession",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 63,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/ShellScript/Bash.sublime-syntax"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 3,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages.x86_64",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 17885,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										2091,
+										2091
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 2468.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 2,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/valter/DATA2/arco-xfce-BYOI-test/archiso/packages-personal-repo.x86_64",
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 62,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 1,
+							"stack_multiselect": false,
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/valter/arco/arco-xfce-BYOI-test/personal/.gitkeep",
+							"selected": true,
+							"semi_transient": false,
+							"settings":
+							{
+								"buffer_size": 0,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Text/Plain text.tmLanguage"
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"stack_index": 0,
+							"stack_multiselect": false,
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 26.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.find_results":
+			{
+				"height": 0.0
+			},
+			"pinned_build_system": "",
+			"position": "0,1,0,0,0,0,0,0,0,1920,1080,0",
+			"project": "",
+			"replace":
+			{
+				"height": 48.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_symbol":
+			{
+				"height": 0.0,
+				"last_filter": "",
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"selected_group": 0,
+			"settings":
+			{
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true,
+			"template_settings":
+			{
+			},
+			"window_id": 1,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}
